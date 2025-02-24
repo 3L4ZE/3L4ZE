@@ -4,7 +4,7 @@
 I'm a passionate and dedicated tech enthusiast, always eager to learn and explore new technologies. My goal is to build innovative solutions and contribute to open-source projects.  
 
 ## 🎯 Learning Goals  
-1. Mastering **JavaScript, Python, and React**  
+1. Mastering **JavaScript, Python, and c++**  
 2. Understanding **backend development with Node.js**  
 3. Building real-world projects and improving problem-solving skills  
 
