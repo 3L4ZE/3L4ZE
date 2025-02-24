@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Shadrach Mwendwa  
 
-<!--
-**3L4ZE/3L4ZE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm a passionate and dedicated tech enthusiast, always eager to learn and explore new technologies. My goal is to build innovative solutions and contribute to open-source projects.  
 
-Here are some ideas to get you started:
+## 🎯 Learning Goals  
+1. Mastering **JavaScript, Python, and React**  
+2. Understanding **backend development with Node.js**  
+3. Building real-world projects and improving problem-solving skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools  
+ **Languages:** JavaScript, Python  
+ **Frameworks & Libraries:** React, Node.js, Express.js  
+ **Databases:** MongoDB, PostgreSQL  
+ **Version Control:** Git, GitHub  
+
+## 💡 Current Projects  
+ **Portfolio Website** - A personal portfolio to showcase my skills and projects  
+ **Todo App** - A task management web application  
+ **API Development** - Learning how to build RESTful APIs with Express.js  
+
+## 📫 How to Reach Me  
+ **Email:** [shaddykitili@gmail.com](mailto:shaddykitili@gmail.com)  
+ **GitHub:** [github.com/shadrach-mwendwa](https://github.com/shadrach-mwendwa)  
+
